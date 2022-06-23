@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>535223982749-5bqjjcsg16pb6ljvs715v5q5voa5l39a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.535223982749-5bqjjcsg16pb6ljvs715v5q5voa5l39a</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC8m8GJEcE9ApYxLOw-qaxGzTt2uZiPa1Y</string>
+	<key>GCM_SENDER_ID</key>
+	<string>535223982749</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>org.arbaz.pamoja</string>
+	<key>PROJECT_ID</key>
+	<string>arbaz-c48c5</string>
+	<key>STORAGE_BUCKET</key>
+	<string>arbaz-c48c5.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:535223982749:ios:34374bc375a294a7b9d274</string>
+	<key>DATABASE_URL</key>
+	<string>https://arbaz-c48c5.firebaseio.com</string>
+</dict>
+</plist>
